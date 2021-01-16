@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url("./background.jpg") bottom center;
+  background: url("./images/drums.jpg") bottom center;
   background-size: cover;
 }
 
@@ -20,7 +20,7 @@ html {
 }
 
 .key {
-  border: 0.4rem solid black;
+  border: 0.4rem solid white;
   border-radius: 0.5rem;
   margin: 1rem;
   font-size: 1.5rem;
